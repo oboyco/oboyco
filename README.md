@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oboyco
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL, Python, Data Analytics
-- 💞️ I’m looking to collaborate on Stock Trading
+- 💞️ I’m looking to collaborate on Stock and Options Trading
 - 📫 How to reach me oboyco@gmail.com
 
 <!---
